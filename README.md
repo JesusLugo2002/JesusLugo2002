@@ -14,6 +14,8 @@
 
 - Y, que no falte, compañero de Patricio, ser omnipresente intelectual que deja su rastro cósmico, de alguna u otra forma, en mis trabajos realizados. 🐠
 
+- Y por último, me gustan los gatos 🐱.
+
 <div align=center>
 
 ![img](https://usagif.com/wp-content/uploads/gifs/fish-19.gif)
