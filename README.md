@@ -1,4 +1,7 @@
-# The Real Jesús Lugo
+<div align=center>
+![img](https://64.media.tumblr.com/452115a94309de388a764d1fd618c39f/tumblr_piibsgfJVc1xdwfv2o1_540.gif)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A21FF7&random=false&width=435&lines=Hello+hello%2C+i'm+Jesus%2C+a+creative+entity.)](https://git.io/typing-svg)
+</div>
 
 <div align=justify>
 
