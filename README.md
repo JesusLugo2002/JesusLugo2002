@@ -9,7 +9,8 @@
   🌕 Lovecraftian follower ♥ Cats, cats and more cats
 </pre>
 <br>
-  
+
+<a href="mailto:jesusdlugo02@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=%23ffffff"/></a>
 [![](https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=%23ffffff)](https://jess-dot-zero.itch.io)
 [![](https://img.shields.io/badge/Twitch-%239146FF?logo=twitch&logoColor=%23ffffff)](https://www.twitch.tv/izekkentheone)
 [![](https://img.shields.io/badge/Steam-%23000000?logo=steam&logoColor=%23ffffff)](https://steamcommunity.com/profiles/76561199222266170/)
