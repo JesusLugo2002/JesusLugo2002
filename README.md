@@ -11,6 +11,7 @@
 <br>
   
 [![](https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=%23ffffff)](https://jess-dot-zero.itch.io)
+[![](https://img.shields.io/badge/Twitch-%239146FF?logo=twitch&logoColor=%23ffffff)](https://www.twitch.tv/izekkentheone)
 
 </div>
 
