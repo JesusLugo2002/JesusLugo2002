@@ -9,6 +9,8 @@
   🌕 Lovecraftian follower ♥ Cats, cats and more cats
 </pre>
 <br>
-  ![![](https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=%23ffffff)](https://jess-dot-zero.itch.io)
+  
+![![](https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=%23ffffff)](https://jess-dot-zero.itch.io)
+
 </div>
 
