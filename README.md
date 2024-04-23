@@ -1,18 +1,20 @@
-<div align=center>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=+Sedan&pause=1000&color=CA920B&random=true&width=405&lines=I'm+a+lovely+sunflower+girl!+%F0%9F%8C%BB%E2%98%80%EF%B8%8F" alt="Typing SVG" /></a>
+<div align=center>  
+<img src="https://64.media.tumblr.com/452115a94309de388a764d1fd618c39f/tumblr_piibsgfJVc1xdwfv2o1_540.gif" height="25%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A21FF7&multiline=true&random=false&width=500&lines=Hello+hello%2C+i'm+Jesus%2C+a+creative+entity."/>
 <br>
-<img src="https://cdn.dribbble.com/users/114039/screenshots/3405025/plant_dribbble.gif" alt="sunflower field" width="50%"/>
+<pre>
+  💻 Programming student ♠ Videogame developer ♠ Mysterious writer
+  🎮 Music ♣ Games ♣ Anime ♣ Code ♣ Art
+  🎨 Godot Engine enjoyer ♦ I want to learn pixelart
+  🌕 Lovecraftian follower ♥ Cats, cats and more cats
+</pre>
+<br>
+
+<a href="mailto:jesusdlugo02@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335?logo=gmail&logoColor=%23ffffff"/></a>
+[![](https://img.shields.io/badge/itch.io-%23FA5C5C?logo=itchdotio&logoColor=%23ffffff)](https://jess-dot-zero.itch.io)
+[![](https://img.shields.io/badge/Twitch-%239146FF?logo=twitch&logoColor=%23ffffff)](https://www.twitch.tv/izekkentheone)
+[![](https://img.shields.io/badge/Steam-%23000000?logo=steam&logoColor=%23ffffff)](https://steamcommunity.com/profiles/76561199222266170/)
+[![](https://img.shields.io/badge/Discord-%235865F2?logo=discord&logoColor=%23ffffff)](https://discordapp.com/users/1072920047401570414.)
+
 </div>
-<br>
-
-📚 As a devoted reader, an aspiring programming student, and a passionate baker, I find myself navigating the realms of imagination, logic, and creativity. With each turn of a page, line of code, or swirl of batter, I discover new avenues for expression and growth.
-
-📖 Engaging with literature has been my sanctuary, offering me insight into the tapestry of emotional experiences and expanding my imagination. From the swoon-worthy romances of Austen to the modern-day love stories that tug at the heartstrings, I revel in the diverse narratives that illuminate the beauty of human connection.
-
-💻 Simultaneously, my journey into the world of programming opens doors to innovation and problem-solving. With each algorithm mastered and program developed, I embrace the power to bring ideas to life in the digital realm, shaping tomorrow's technologies.
-
-🍰 And in the kitchen, amidst the aroma of freshly baked goods, I find joy in the precise measurements, creative experimentation, and the artistry of pastry. From delicate pastries to hearty loaves, baking fuels my soul and delights those around me with the simple pleasure of homemade treats.
-
-🌟 Combining my passions for literature, programming, and baking, I aspire to craft narratives in both prose and code, while also indulging in the sweet satisfaction of creating delectable delights that nourish the body and spirit.
-
 
