@@ -17,7 +17,7 @@
 [![](https://img.shields.io/badge/Discord-%235865F2?logo=discord&logoColor=%23ffffff)](https://discordapp.com/users/1072920047401570414.)
 <br>
 
- ![visitors](https://visitor-badge.glitch.me/badge?page_id=JesusLugo2002.README&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=JesusLugo2002.README&left_color=green&right_color=red)
 
 </div>
 
