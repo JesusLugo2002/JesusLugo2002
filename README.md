@@ -3,10 +3,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A21FF7&multiline=true&random=false&width=500&lines=Hello+hello%2C+i'm+Jesus%2C+a+creative+entity."/>
 <br>
 <pre>
-  💻 Web programmer ♠ Videogame developer ♠ Mysterious writer
-  🎮 Music ♣ Games ♣ Anime ♣ Code ♣ Art
-  🎨 Godot Engine enjoyer ♦ I want to learn pixelart
-  🌕 Lovecraftian follower ♥ Cats, cats and more cats
+  💻 Web programmer ♠ Videogame developer ♠ Starry-eyes writer
+  🎮 Godot Engine enjoyer ♣ Pixel-art artist
+  🌕 Lovecraftian follower ♥ Forever against generative AI
+  🎨 The animation is a medium, not a genre
 </pre>
 <br>
 
