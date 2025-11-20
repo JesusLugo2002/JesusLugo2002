@@ -5,7 +5,7 @@
 <pre>
   💻 Web programmer ♠ Videogame developer ♠ Starry-eyes writer
   🎮 Godot Engine enjoyer ♣ Pixel-art artist
-  🌕 Lovecraftian follower ♥ Forever against generative AI
+  🌕 Lovecraftian follower ♥ NO generative AI
   🎨 The animation is a medium, not a genre
 </pre>
 <br>
